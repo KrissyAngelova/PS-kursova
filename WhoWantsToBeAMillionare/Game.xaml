@@ -1,0 +1,42 @@
+﻿<Window x:Class="WhoWantsToBeAMillionare.Game"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Game" Height="Auto" Width="Auto">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/6.jpg"></ImageBrush>
+    </Window.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="FiftyJokerButton" Grid.Row="0" Grid.Column="2" Margin="5" Background="Black" Command="{Binding FiftyJockerCommand}" IsEnabled="{Binding CurrentLevel.fiftyJockerIsEnable}">
+            <Image Source="{Binding CurrentLevel.fiftyJockerImgSource}"/>
+        </Button>
+        <Button x:Name="FriendJokerButton" Grid.Row="0" Grid.Column="3" Margin="5" Background="Black" Command="{Binding FriendJockerCommand}" IsEnabled="{Binding CurrentLevel.friendJockerIsEnable}">
+            <Image Source ="{Binding CurrentLevel.friendJockerImgSource}"/>
+        </Button>
+        <Button x:Name="PublicJokerButton" Grid.Row="0" Grid.Column="4" Margin="5" Background="Black" Command="{Binding PublicJockerCommand}" IsEnabled="{Binding CurrentLevel.publicJockerIsEnable}">
+            <Image Source ="{Binding CurrentLevel.publicJockerImgSource}"/>
+        </Button>
+        <TextBlock Text="{Binding CurrentLevel.question}" Grid.Row="2" Grid.ColumnSpan="2" Margin="20" Background="Black" Foreground="White"/>
+        <Button x:Name="btnA" CommandParameter="A" Command="{Binding AnswerCommand}" Content="{Binding CurrentLevel.aA}" Grid.Row="3" Grid.Column="0" Margin="5" Background="Black" BorderBrush="Blue" Foreground="White"/>
+        <Button x:Name="btnB" CommandParameter="B" Command="{Binding AnswerCommand}" Content="{Binding CurrentLevel.aB}" Grid.Row="4" Grid.Column="0" Margin="5" Background="Black" BorderBrush="Blue" Foreground="White"/>
+        <Button x:Name="btnC" CommandParameter="C" Command="{Binding AnswerCommand}" Content="{Binding CurrentLevel.aC}" Grid.Row="3" Grid.Column="1" Margin="5" Background="Black" BorderBrush="Blue" Foreground="White"/>
+        <Button x:Name="btnD" CommandParameter="D" Command="{Binding AnswerCommand}" Content="{Binding CurrentLevel.aD}" Grid.Row="4" Grid.Column="1" Margin="5" Background="Black" BorderBrush="Blue" Foreground="White"/>
+        <Image Source="{Binding CurrentLevel.imgSrc}" Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="3" Grid.RowSpan="4"/>
+       
+    </Grid>
+</Window>

@@ -1,0 +1,40 @@
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.exe.config
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.exe
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.pdb
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.csprojResolveAssemblyReference.cache
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\App.g.cs
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare_MarkupCompile.cache
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.g.resources
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.Properties.Resources.resources
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.csproj.GenerateResource.Cache
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.exe
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.pdb
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\Menu.baml
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\Game.baml
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\Menu.g.cs
+c:\users\кристина\documents\visual studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\Game.g.cs
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\Quiz.mdf
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\Quiz_log.ldf
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare_Content.g.cs
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.exe.config
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.exe
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.pdb
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\Menu.baml
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\Game.baml
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\Menu.g.cs
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\Game.g.cs
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\App.g.cs
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare_Content.g.cs
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare_MarkupCompile.cache
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.g.resources
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.Properties.Resources.resources
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\obj\Debug\WhoWantsToBeAMillionare.csproj.GenerateResource.Cache
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\Quiz.mdf
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\Quiz_log.ldf
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.exe
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\WhoWantsToBeAMillionare.pdb
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\EntityFramework.dll
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\EntityFramework.xml
+C:\Users\Кристина\Desktop\WhoWantsToBeAMillionare\WhoWantsToBeAMillionare\bin\Debug\EntityFramework.SqlServer.xml

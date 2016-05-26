@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuizModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Levels">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="question" Type="text" />
+    <Property Name="aA" Type="nchar" MaxLength="255" />
+    <Property Name="aB" Type="nchar" MaxLength="255" />
+    <Property Name="aC" Type="nchar" MaxLength="255" />
+    <Property Name="aD" Type="nchar" MaxLength="255" />
+    <Property Name="correct" Type="nchar" MaxLength="1" />
+    <Property Name="number" Type="smallint" />
+    <Property Name="cash" Type="int" />
+    <Property Name="imgSrc" Type="text" />
+  </EntityType>
+  <EntityContainer Name="QuizModelStoreContainer">
+    <EntitySet Name="Levels" EntityType="Self.Levels" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
